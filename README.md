@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋, I am Ganiyu Ibrahim
 
 <!--
 **gibra21/gibra21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
