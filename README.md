@@ -23,5 +23,7 @@ I am from North Caorlina, I love to play video games, play and watch sports, and
 
 
 **Tools and Langaues I use to Code**
-![Screenshot 2024-10-11 172544](https://github.com/user-attachments/assets/9756dd69-9f41-42f4-8dee-9707b15752e7)
+
+
+[Screenshot 2024-10-11 172544](https://github.com/user-attachments/assets/9756dd69-9f41-42f4-8dee-9707b15752e7)
 
