@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 I am from North Caorlina, I love to play video games, play and watch sports, and code 
+
+**Social Networks**
+
+<a href="mailto:gibrahim0877@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href=https://www.linkedin.com/in/ganiyu-ibrahim-5051a5316/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
