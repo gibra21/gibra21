@@ -26,7 +26,6 @@ I am from North Caorlina, I love to play video games, play and watch sports, and
 
 
 
-Python, Java, C#, JavaScript, CSS, HTML
+Languages: Python, Java, C#, JavaScript, CSS and HTML
 
-<img alt="Static Badge" src="https://img.shields.io/badge/python-blue">
-
+Tools: React, Flask, Django, Dash and Springboot
